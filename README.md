@@ -1,5 +1,8 @@
 # *********************Line Following Robot With Logic Gates*********************
 
+# Video
+![Line Following Robot](https://github.com/mr-kasim-mehar/Line-Following-Robot-with-gates/raw/Line-Following-Robot/WhatsApp%20Video%202024-03-14%20at%209.22.02%20PM.gif)
+
 ## Group Members
 
 1. Usman Qadeer: 221370030
